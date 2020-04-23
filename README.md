@@ -3,7 +3,7 @@ This repository has been created with the aim of storing all the tasks/exercises
 
 All the material was developed for the 'Networks in Economics and Social Science' [Ca' Foscari University](https://www.unive.it/) master's degree course in 'Software Dependability and Cyber Security' (2019/2020).
 
-# Homeworks
+# Assignments
 In the following list you will find for each assignment its relatives topics and solution.
 
 1. **Task 1 - Teory**: *Graph theory, Paths, Circuits, Trees, Planar graphs* ([assignment]() | [solution]());
